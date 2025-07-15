@@ -21,6 +21,9 @@ I wanted to take object detection a step further and explore a niche use case—
 - Uses OpenCV to capture frames from webcam
 - Applies bounding boxes + confidence scores to detected faces
 
+- <img width="1534" height="652" alt="Output (2)" src="https://github.com/user-attachments/assets/1d3a367f-3d21-4126-8852-0cad46fb92cf" />
+<img width="1075" height="632" alt="output" src="https://github.com/user-attachments/assets/a0e85d85-15be-4ad2-aeff-7eff77e144a9" />
+
 ---
 
 ## 🚀 What You’ll Need
@@ -35,3 +38,5 @@ I wanted to take object detection a step further and explore a niche use case—
 
 ```bash
 pip install tensorflow opencv-python numpy matplotlib
+
+
